@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     //prueba de segundo comentario
-    <<"Hello World";
-
+    cout<<"Hello World";
+   
     return 0;
 }
